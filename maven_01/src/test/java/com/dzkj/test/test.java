@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import com.dzkj.HelloWord.HelloWord;
 
-public class test {
+public class test { 
     @Test
     public void testHW(){
     	
